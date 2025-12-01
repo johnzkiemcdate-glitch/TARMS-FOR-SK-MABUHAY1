@@ -1,0 +1,23 @@
+[
+    {
+        "id": "p_692673109fd5c7.42781513",
+        "name": "PIATOS",
+        "quantity": 5,
+        "price": 10,
+        "created_at": "2025-11-26T04:25:04+01:00"
+    },
+    {
+        "id": "p_692676347909a6.43400540",
+        "name": "BOND PAPER",
+        "quantity": 10,
+        "price": 100,
+        "created_at": "2025-11-26T04:38:28+01:00"
+    },
+    {
+        "id": "p_692677e35ee5f0.39436535",
+        "name": "PRINTER",
+        "quantity": 5,
+        "price": 1000.03,
+        "created_at": "2025-11-26T04:45:39+01:00"
+    }
+]

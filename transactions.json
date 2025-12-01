@@ -1,0 +1,173 @@
+[
+    {
+        "id": "t_69269bacdbf614.18698856",
+        "type": "income",
+        "amount": 10000,
+        "person": "JOHN WALTER PETCHA",
+        "description": "MONTHLY INCOME",
+        "tx_date": "2025-11-26T02:18:00+01:00",
+        "created_at": "2025-11-26T07:18:20+01:00"
+    },
+    {
+        "id": "t_69269c0925ca50.88177937",
+        "type": "expense",
+        "amount": 5000,
+        "person": "JOHN WALTER PETCHA",
+        "description": "PRINTER",
+        "tx_date": "2022-04-25T07:19:00+02:00",
+        "created_at": "2025-11-26T07:19:53+01:00"
+    },
+    {
+        "id": "t_69269df46060e7.01772084",
+        "type": "income",
+        "amount": 1000000,
+        "person": "JOHN WALTER PETCHA",
+        "description": "Highway Road",
+        "tx_date": "2025-11-26T14:27:00+08:00",
+        "created_at": "2025-11-26T14:28:04+08:00"
+    },
+    {
+        "id": "t_692ae1092b94f2.15822906",
+        "type": "allocation",
+        "amount": 1000000,
+        "person": "ljknbjkbjkbk",
+        "description": ".lnnkkm",
+        "tx_date": "4454-12-21T23:51:00+08:00",
+        "created_at": "2025-11-29T20:03:21+08:00"
+    },
+    {
+        "id": "t_692ae2c40a5c69.50697510",
+        "type": "income",
+        "amount": 23132,
+        "person": "231231231",
+        "description": "asdasd",
+        "tx_date": "2025-11-29T20:10:00+08:00",
+        "created_at": "2025-11-29T20:10:44+08:00"
+    },
+    {
+        "id": "t_692ae2cae668d4.29898238",
+        "type": "income",
+        "amount": 12312312,
+        "person": "13123",
+        "description": "123123",
+        "tx_date": "2025-11-29T20:10:00+08:00",
+        "created_at": "2025-11-29T20:10:50+08:00"
+    },
+    {
+        "id": "t_692ae2d196ac78.55993576",
+        "type": "income",
+        "amount": 2131230,
+        "person": "123312",
+        "description": "1312",
+        "tx_date": "2025-11-29T08:12:00+08:00",
+        "created_at": "2025-11-29T20:10:57+08:00"
+    },
+    {
+        "id": "t_692ae2ddd8e4b0.09583222",
+        "type": "income",
+        "amount": 131231,
+        "person": "1312",
+        "description": "132113",
+        "tx_date": "2025-11-29T20:11:00+08:00",
+        "created_at": "2025-11-29T20:11:09+08:00"
+    },
+    {
+        "id": "t_692ae2e4215bb3.46800922",
+        "type": "income",
+        "amount": 132130,
+        "person": "13213",
+        "description": "123213",
+        "tx_date": "2025-11-29T20:11:00+08:00",
+        "created_at": "2025-11-29T20:11:16+08:00"
+    },
+    {
+        "id": "t_692ae2e9bdd7c6.61215770",
+        "type": "income",
+        "amount": 122131,
+        "person": "1312",
+        "description": "13123",
+        "tx_date": "2025-11-29T20:11:00+08:00",
+        "created_at": "2025-11-29T20:11:21+08:00"
+    },
+    {
+        "id": "t_692ae30294be05.39224038",
+        "type": "income",
+        "amount": 123129,
+        "person": "123213",
+        "description": "13123",
+        "tx_date": "2025-11-29T20:11:00+08:00",
+        "created_at": "2025-11-29T20:11:46+08:00"
+    },
+    {
+        "id": "t_692ae30b0b41f9.10609827",
+        "type": "income",
+        "amount": 123130,
+        "person": "132213",
+        "description": "13123",
+        "tx_date": "2025-11-29T20:11:00+08:00",
+        "created_at": "2025-11-29T20:11:55+08:00"
+    },
+    {
+        "id": "t_692ae326f2c602.35833025",
+        "type": "income",
+        "amount": 131230,
+        "person": "13221",
+        "description": "32131",
+        "tx_date": "2025-11-29T20:11:00+08:00",
+        "created_at": "2025-11-29T20:12:22+08:00"
+    },
+    {
+        "id": "t_692ae3366798a9.91953356",
+        "type": "income",
+        "amount": 131230,
+        "person": "132",
+        "description": "13123",
+        "tx_date": "2025-11-29T20:12:00+08:00",
+        "created_at": "2025-11-29T20:12:38+08:00"
+    },
+    {
+        "id": "t_692ae33d582c35.76514602",
+        "type": "income",
+        "amount": 2220,
+        "person": "22",
+        "description": "222",
+        "tx_date": "2025-11-29T20:12:00+08:00",
+        "created_at": "2025-11-29T20:12:45+08:00"
+    },
+    {
+        "id": "t_692ae3451ba576.40599471",
+        "type": "income",
+        "amount": 330,
+        "person": "333",
+        "description": "333",
+        "tx_date": "2025-11-29T20:12:00+08:00",
+        "created_at": "2025-11-29T20:12:53+08:00"
+    },
+    {
+        "id": "t_692ae3a2bdea40.82729289",
+        "type": "allocation",
+        "amount": 1231230.12,
+        "person": "1321",
+        "description": "123123123",
+        "tx_date": "2025-11-29T20:13:00+08:00",
+        "created_at": "2025-11-29T20:14:26+08:00"
+    },
+    {
+        "id": "t_692ae3b0d23d05.38960551",
+        "type": "allocation",
+        "amount": 33303333,
+        "person": "33",
+        "description": "3333",
+        "tx_date": "2025-11-29T20:14:00+08:00",
+        "created_at": "2025-11-29T20:14:40+08:00"
+    },
+    {
+        "id": "t_692ae3bf749486.54372517",
+        "type": "allocation",
+        "amount": 3333,
+        "person": "33",
+        "description": "333",
+        "tx_date": "2025-11-29T20:14:00+08:00",
+        "created_at": "2025-11-29T20:14:55+08:00"
+    }
+]
